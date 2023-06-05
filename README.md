@@ -33,6 +33,9 @@ Cmd ile aracı indirelim    :    pip install pyinstaller
 Projemizin python dosyasının da bulunduğu yerde cmd üzerinden    :    pyinstaller Wallpaper_Changer.py --onefile -- noconsole --icon "İcon dosyamızın tam yolu"
 
 
+--icon paramteresi oluşturuğumuz exe'ye bir icon koymamızı sağlar. 
+
+
 Artık program exe'ye çevrildi ve çalışmaya hazır.
 
 
