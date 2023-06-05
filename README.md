@@ -28,7 +28,11 @@ Pyinstaller kullanarak exe'ye çevirebiliriz.
 ## Pyinstaller indirme ve komutları:
 
 Cmd ile aracı indirelim :  pip install pyinstaller
+
+
 Projemizin python dosyasının da bulunduğu yerde cmd üzerinden  :  pyinstaller Wallpaper_Changer.py --onefile -- noconsole --icon "İcon dosyamızın tam yolu"
+
+
 Artık program exe'ye çevrildi ve çalışmaya hazır.
 
 
