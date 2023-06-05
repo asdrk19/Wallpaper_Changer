@@ -5,7 +5,7 @@ import shutil
 import sys
 import subprocess
 my_list=[]
-Directory="C:\\Users\Admin\OneDrive\Masaüstü\Wallpaper_Changer" #Resimleri barındıran Klasörün Yolu
+Directory="" #Resimleri barındıran Klasörün Yolu
 Dosya_Listesi=os.listdir(Directory)
 
 for file in Dosya_Listesi:
