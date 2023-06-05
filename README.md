@@ -1,8 +1,8 @@
 # Wallpaper_Changer
 Python dilinde yazılmış windows için arkaplan değiştirici
 Yapmanız gereken random olarak değişicek resimleri bir klasörde toplamanız ve o klasörü Wallpaper_Changer'a tanıtmanız.
-
-# Bilgisayarı her başlattığınızda veya programı her çalıştırdığınızda seçtiğiniz resimlerden herhangi birini random olarak seçip arkaplanınıza atamaya yarar.
+\n
+Bilgisayarı her başlattığınızda veya programı her çalıştırdığınızda seçtiğiniz resimlerden herhangi birini random olarak seçip arkaplanınıza atamaya yarar.
 
 # Kullanım:
 Öncelikle bir klasör oluşturup beğendiğiniz resimleri bu klasöre koymalısınız. 
@@ -12,6 +12,6 @@ Artık kullanıma hazır ama başlangıçta herhangi bir hatayla karşılaşmama
 
 ## Exe'ye çevirme işlemi:
 Pyinstaller kullanarak exe'ye çevirebiliriz.
-## Pyinstaller indirme:
-Cmd'ye pip install pyinstaller
+## Pyinstaller indirme ve komutları:
+pip install pyinstaller
 
